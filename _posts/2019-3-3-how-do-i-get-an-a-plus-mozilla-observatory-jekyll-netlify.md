@@ -5,6 +5,8 @@ tags: [blog, tutorial, jekyll, netlify, observatory, security, JAMstack]
 description: "Learn how to get an A+ grade through Mozilla Observatory using Jekyll and Netlify."
 ---
 
+[This post was originally made on the Ogden Studios blog](https://ogdenstudios.xyz/2019/03/03/how-do-i-get-an-a-plus-mozilla-observatory-jekyll-netlify.html)
+
 When I need to build a blog or static site, my go-to is JAMstack with [Jekyll](https://jekyllrb.com/) and [Netlify](https://www.netlify.com/).
 
 I also try and build out secure websites. I used to think it really only mattered on sites that process personal or sensitive information. But then I listened to [episode 250 of the Shop Talk Show](https://shoptalkshow.com/episodes/250-web-security-april-king-alex-sexton/). April King and Alex Sexton talked about the different ways even static sites can get hijacked, serve up malicious content, and otherwise make the internet a bad place. 
